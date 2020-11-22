@@ -54,3 +54,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Temp files/Dirs
+patches/
+.ccls-cache/
+*.rej
+*.orig
