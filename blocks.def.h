@@ -5,7 +5,7 @@ static const Block blocks[] = {
 	{"",		"memory",			5,					1},
 	{"",		"dwmsound",			0,					10},
 	{"",		"dwmbrightness",	0,					12},
-	{"",		"battery",			0,					5},
+	{"",		"battery",			5,					5},
 
 	{"",		"dwmclock",			5,					4},
 };
